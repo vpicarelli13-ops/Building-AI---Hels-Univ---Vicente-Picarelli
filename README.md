@@ -1,6 +1,6 @@
 ## Summary 
 
-Ai Stylist – Readme (building Ai Course Project)
+**Ai Stylist – Readme (building Ai Course Project)**
 WardrobeWise – AI Stylist for Men
 
 Final project for the Building AI course
