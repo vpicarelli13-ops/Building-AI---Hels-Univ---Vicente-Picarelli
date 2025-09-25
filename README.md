@@ -5,6 +5,7 @@ Final project for the Building AI course
 ## Summary
 
 **Building AI course project.** WardrobeWise is an AI stylist that helps men organize their wardrobe from photos and suggests outfit combinations. It saves time and builds confidence in everyday dressing.
+
 ## Background
 
 Many men struggle to combine clothes, end up repeating the same outfits, and waste time deciding what to wear. Lack of fashion knowledge, little time, and insecurity often lead to poor purchases and low confidence.
